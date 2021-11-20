@@ -15,7 +15,9 @@ https://marvelheroesapi.herokuapp.com/api/
 Photo by <a href="https://unsplash.com/@introspectivedsgn?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Erik Mclean</a> on <a href="https://unsplash.com/s/photos/marvel?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   
 
+* * *
 
+If you liked the product, then don't forget to show some love by starring this repositry 🙂
 
 
 
